@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Женя Михайлова](https://up.htmlacademy.ru/ecmascript/9/user/56156).
-* Наставник: `Неизвестно`.
+* Наставник: `Артем Черкасов`.
 
 ---
 
